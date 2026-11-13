@@ -14,10 +14,3 @@ A **VitrineIA** conecta o comportamento em tempo real dos visitantes de um shopp
 - **Banco de Dados:** PostgreSQL
 - **Inteligência & Dados:** Regras de Associação (Mineração de Dados) + API de IA Generativa
 
-## 👥 Equipe
-| Integrante | Papel |
-| :--- | :--- |
-| **Warly Martins** | Tech Lead, Arquitetura & Backend |
-| **[Nome Integrante 2]** | UI/UX Design & Frontend |
-| **[Nome Integrante 3]** | Engenharia de Dados & IA |
-| **[Nome Integrante 4]** | Requisitos, Documentação & Pitch |
